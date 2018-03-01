@@ -17497,7 +17497,7 @@ body {
   }
 }
 .babyGirlHeader {
-  background-image: url("https://www.freevector.com/uploads/vector/preview/19012/free-vector-baby-girl-cartoon-card.jpg");
+  background-image: url("../images/img4.jpg");
 }
 .babyGirlHeader .mbr-text,
 .babyGirlHeader .mbr-section-btn {
@@ -17509,7 +17509,7 @@ body {
 .sectionHead1 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/letizia-bordoni-252913-2000x1333.jpg");
+  background-image: url("../images/img9.jpg");
 }
 .sectionHead1 .mbr-figure {
   margin: 0 auto;
@@ -17544,13 +17544,13 @@ body {
 .sectionHead3 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/zheng-41190-2000x1333.jpg");
+  background-image: url("../images/ganesha.jpg");
 }
 .sectionHead3 P {
   text-align: left;
 }
 .sectionHead3 H3 {
-  text-align: center;
+  text-align: left;
 }
 .sectionHead3 H1 {
   text-align: center;
@@ -17923,7 +17923,7 @@ body {
 .carouselSection {
   padding-top: 75px;
   padding-bottom: 45px;
-  background-color: #eeeeee;
+  background-image: url(..//images/pic1.jpg);
 }
 .carouselSection .content-slider {
   display: flex;
