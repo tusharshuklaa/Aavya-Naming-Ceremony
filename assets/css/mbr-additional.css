@@ -6,14 +6,15 @@
 }
 
 .mapouter {
-  overflow: hidden;
+  overflow-y: hidden;
+  overflow-x: auto;
   height: 400px;
-  width: 760px;
+  width: 100%;
   margin: auto;
 }
 
 .gmap_canvas {
-  background: none!important;
+  background: none !important;
   height: 400px;
   width: 760px;
 }
@@ -1270,12 +1271,6 @@ body {
   height: auto;
   min-height: 100vh;
 }
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
-}
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
 }
@@ -2259,12 +2254,6 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
-}
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
 }
@@ -3068,12 +3057,6 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
-}
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
 }
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
@@ -4517,12 +4500,6 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
-}
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
 }
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
@@ -6197,12 +6174,6 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
-}
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
 }
@@ -7655,12 +7626,6 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
-}
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
 }
@@ -8877,12 +8842,6 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
-}
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
 }
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
@@ -10398,12 +10357,6 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
-}
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
 }
@@ -11305,12 +11258,6 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
-}
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
 }
@@ -12085,12 +12032,6 @@ body {
 .cid-qvcTATiVCJ .media-container-row .row-copirayt {
   word-break: break-word;
 }
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
-}
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
 }
@@ -12804,12 +12745,6 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
-}
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
 }
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
@@ -13577,12 +13512,6 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
-}
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
 }
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
@@ -14687,12 +14616,6 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
-}
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
 }
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
@@ -16315,12 +16238,6 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
-}
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
 }
@@ -17128,12 +17045,6 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
-}
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
 }
@@ -17516,7 +17427,7 @@ body {
 }
 .sectionHead1 .mbr-text,
 .sectionHead1 .mbr-section-btn {
-  color: #232323;
+  color: rgba(0, 0, 0, 0.80);
 }
 .sectionHead1 H1 {
   color: #232323;
@@ -17923,7 +17834,7 @@ body {
 .carouselSection {
   padding-top: 75px;
   padding-bottom: 45px;
-  background-image: url(..//images/pic1.jpg);
+  background-image: url(..//images/img24.jpg);
 }
 .carouselSection .content-slider {
   display: flex;
@@ -18186,8 +18097,10 @@ body {
   display: inline-block;
 }
 .carouselSection .image_wrapper img {
-  width: auto !important;
-  height: 100%;
+  max-height: 100%;
+  max-width: 100%;
+  width: auto;
+  border: 2px solid pink;
 }
 .carouselSection .carousel-item .container-slide {
   text-align: center;
@@ -18198,7 +18111,7 @@ body {
 
 .aavyaHeader .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: rgba(51, 51, 51, 0.20);
   transition: none;
   min-height: 77px;
 }
@@ -19070,12 +18983,6 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
-}
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
 }
@@ -19905,7 +19812,7 @@ body {
 }
 .aavyaHeader .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: rgba(51, 51, 51, 0.20);
   transition: none;
   min-height: 77px;
 }
@@ -20859,12 +20766,6 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
-}
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
 }
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
@@ -23031,12 +22932,6 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
-}
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
 }
@@ -23398,12 +23293,6 @@ body {
   .aavyaHeader .menu-logo {
     flex-shrink: 0;
   }
-}
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
 }
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
@@ -24260,12 +24149,6 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
-}
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
 }
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
@@ -25229,12 +25112,6 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
-}
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
 }
@@ -26167,12 +26044,6 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
-}
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
 }
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
@@ -27413,12 +27284,6 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
-}
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
 }
@@ -28221,12 +28086,6 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
-}
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
 }
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
@@ -29274,12 +29133,6 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
-}
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
 }
@@ -30326,12 +30179,6 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
-}
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
 }
@@ -31294,12 +31141,6 @@ body {
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
-}
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
 }
@@ -32244,12 +32085,6 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
-}
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
 }
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
@@ -33241,12 +33076,6 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
-}
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
 }
@@ -33990,12 +33819,6 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
-}
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
 }
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
@@ -34951,12 +34774,6 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
-}
-.aavyaHeader .navbar {
-  padding: .5rem 0;
-  background: #333333;
-  transition: none;
-  min-height: 77px;
 }
 .aavyaHeader .navbar-dropdown.bg-color.transparent.opened {
   background: #333333;
